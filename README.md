@@ -2,7 +2,7 @@
 *[*Anisha Saha*](https://anisha0325.github.io/), [*Varsha Suresh*](https://sites.google.com/view/varsha-suresh/), [*Timothy Hospedales*](https://homepages.inf.ed.ac.uk/thospeda/), [*Vera Demberg*](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)*  
  
 
-🚧 ** Code and dataset are coming soon!** Stay tuned.  
+🚧 **Code and dataset are coming soon!** Stay tuned.  
 🔗 Project Page: [MUStReason-Project](https://anisha0325.github.io/MUStReason-Project/)  
 📄 Paper: [arXiv 2503.22399](https://arxiv.org/abs/2510.23727)
 
