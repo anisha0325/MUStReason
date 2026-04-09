@@ -38,14 +38,14 @@ For questions, feel free to contact:
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{saha2025mustreasonbenchmarkdiagnosingpragmatic,
-      title={MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection}, 
-      author={Anisha Saha and Varsha Suresh and Timothy Hospedales and Vera Demberg},
-      year={2025},
-      eprint={2510.23727},
+@misc{chan2026systemmediatedattentionimbalancesmake,
+      title={System-Mediated Attention Imbalances Make Vision-Language Models Say Yes}, 
+      author={Tsan Tsai Chan and Varsha Suresh and Anisha Saha and Michael Hahn and Vera Demberg},
+      year={2026},
+      eprint={2601.12430},
       archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2510.23727}, 
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.12430}, 
 }
 ```
 ---
