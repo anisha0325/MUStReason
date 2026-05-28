@@ -50,4 +50,4 @@ If you use this work in your research, please cite:
 ```
 ---
 
-_This repository will be updated shortly. Thank you for your interest!_
+_This repository is being updated. Thank you for your interest!_
