@@ -1,4 +1,4 @@
-#MUStReason Dataset
+# MUStReason Dataset
 
 This directory contains the **gold-standard** and **silver-standard** reasoning annotations used in MUStReason.
 
@@ -6,7 +6,7 @@ This directory contains the **gold-standard** and **silver-standard** reasoning 
 
 ### `gold.csv`
 
-Contains the **gold-standard annotations, manually verified and corrected by two annotators to ensure:
+Contains the **gold-standard annotations**, manually verified and corrected by two annotators to ensure:
 
 * correctness of modality descriptions,
 * relevance to sarcasm classification,
