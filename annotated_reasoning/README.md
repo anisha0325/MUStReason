@@ -23,3 +23,15 @@ The silver annotations were evaluated against the gold data and achieved strong 
 ## Citation
 
 If you use this dataset, please cite our paper.
+
+```bibtex
+@misc{saha2025mustreasonbenchmarkdiagnosingpragmatic,
+      title={MUStReason: A Benchmark for Diagnosing Pragmatic Reasoning in Video-LMs for Multimodal Sarcasm Detection}, 
+      author={Anisha Saha and Varsha Suresh and Timothy Hospedales and Vera Demberg},
+      year={2025},
+      eprint={2510.23727},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.23727}, 
+}
+```
