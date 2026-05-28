@@ -5,7 +5,6 @@
 🚧 **Code and dataset are coming soon!** Stay tuned.  
 🔗 Project Page: [MUStReason-Project](https://anisha0325.github.io/MUStReason-Project/)  
 📄 Paper: [arXiv 2503.22399](https://arxiv.org/abs/2510.23727)
-🧾 Data: [MUStReason Data] (https://github.com/anisha0325/MUStReason/tree/main/annotated_reasoning/)
 
 ---
 
